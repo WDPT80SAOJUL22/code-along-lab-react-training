@@ -1,0 +1,10 @@
+.box-color{
+    width: 500px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+}
+
+.box-color p{
+    margin-top: 50px;
+}
